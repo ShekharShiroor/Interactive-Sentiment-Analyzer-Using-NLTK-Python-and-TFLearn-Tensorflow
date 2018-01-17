@@ -4,7 +4,7 @@ Trying NLP using neural networks to predict the sentiment of general movie revie
 
 # Future Scope
 
-Can be improved by training on more complex models and larger data-set like Resnet 50,100,150 and combination of LSTM as well.
+Can be improved by training on larger data-set and more complex models like Resnet 50,100,150 and combination of LSTM as well.
 
 # References
 
